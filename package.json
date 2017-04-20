@@ -1,0 +1,19 @@
+{
+  "name": "myfirstelectronapp",
+  "version": "1.0.0",
+  "description": "Testing out Building Apps on Electron via NODEJS",
+  "main": "app.js",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myfirstelectrongapp"
+  ],
+  "author": "TSMG",
+  "license": "ISC"
+}
